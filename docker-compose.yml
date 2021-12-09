@@ -1,0 +1,29 @@
+version: '3'
+
+networks:
+   extnetwork:
+      ipam:
+         config:
+         - subnet: 172.18.0.0/16
+           gateway: 172.18.0.1
+
+services:
+  gin-api:
+    container_name: gin-api
+    image: gin-api
+    ports:
+      - 15907:15907
+    networks:
+         extnetwork:
+            ipv4_address: 172.18.0.2  
+
+  gin-kafka:
+    container_name: gin-kafka
+    image: gin-kafka
+    links:
+      - gin-api
+    ports:
+      - 15908:15908    
+    networks:
+         extnetwork:
+            ipv4_address: 172.18.0.3

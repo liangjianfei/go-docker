@@ -1,0 +1,62 @@
+{"level":"INFO","time":"2021/11/29 - 15:02:20.213","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:02:20.214","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:02:20.215","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:02:20.215","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:02:20.215","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:22:59.158","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:22:59.159","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:22:59.159","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:22:59.160","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:22:59.160","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:23:28.110","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:24:34.963","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:24:34.964","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:24:34.964","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:24:34.964","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:24:34.964","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:24:53.082","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:28:04.370","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:28:04.371","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:28:04.371","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:28:04.371","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:28:04.371","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:41:45.877","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:41:45.878","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:41:45.878","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:41:45.878","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:41:45.878","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:42:12.317","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/11/29 - 15:49:38.760","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:51:11.937","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:51:11.938","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:51:11.938","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:51:11.939","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:51:11.939","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:51:54.688","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:51:54.690","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:51:54.690","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:51:54.691","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:51:54.691","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:52:28.088","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:53:12.431","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.136","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.059","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.143","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.837","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.990","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:14:54.417","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:14:54.418","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:14:54.418","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:14:54.418","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:14:54.418","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 16:15:03.623","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.879","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:51:29.372","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:51:29.373","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:29.373","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:29.373","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:29.373","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.498","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 16:51:54.008","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.807","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.227","caller":"Middleware/Cors.go:17","msg":""}

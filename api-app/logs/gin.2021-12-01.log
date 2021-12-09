@@ -1,0 +1,28 @@
+{"level":"INFO","time":"2021/12/01 - 14:51:24.616","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/12/01 - 14:51:24.621","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/12/01 - 14:51:24.622","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/12/01 - 14:51:24.623","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/12/01 - 14:51:24.623","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/12/01 - 14:51:29.440","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 14:51:33.827","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/12/01 - 15:00:01.987","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:00:52.032","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:01:15.581","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:02:10.049","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:10:13.740","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:12:37.118","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:13:24.749","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:14:31.643","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:14:51.928","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:16:40.741","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:17:33.789","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:23:43.587","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:23:55.393","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:25:48.314","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:32:26.715","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:45:09.966","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:46:37.494","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:52:33.522","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 15:52:48.984","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/12/01 - 16:04:47.496","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/12/01 - 16:06:54.331","caller":"Middleware/Cors.go:17","msg":""}

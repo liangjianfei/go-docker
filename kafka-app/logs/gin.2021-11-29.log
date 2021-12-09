@@ -1,0 +1,223 @@
+{"level":"INFO","time":"2021/11/29 - 15:03:42.474","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:03:42.476","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:03:42.476","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:03:42.476","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:03:42.476","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:04:05.197","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:04:49.508","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:05:39.756","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:05:39.757","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:05:39.757","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:05:39.757","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:05:39.757","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:05:44.359","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:07:21.272","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:07:21.273","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:07:21.273","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:07:21.273","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:07:21.273","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:07:24.573","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:15:07.205","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:15:07.206","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:15:07.206","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:15:07.206","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:15:07.206","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:15:29.548","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:17:14.569","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:17:14.570","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:17:14.570","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:17:14.571","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:17:14.571","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:17:18.972","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:20:40.623","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:20:40.625","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:20:40.625","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:20:40.625","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:20:40.625","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:20:51.749","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:22:54.134","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:22:54.135","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:22:54.136","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:22:54.136","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:22:54.136","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:23:10.494","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:28:11.103","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:28:11.104","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:28:11.104","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:28:11.104","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:28:11.104","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:29:19.241","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:29:19.242","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:29:19.242","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:29:19.242","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:29:19.242","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:30:21.394","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/11/29 - 15:31:14.102","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:31:14.111","caller":"DBUtils/MySqlUtil.go:41","msg":"database connect success"}
+{"level":"INFO","time":"2021/11/29 - 15:31:15.204","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:33:53.693","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:33:53.694","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:33:53.695","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:33:53.696","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:33:53.696","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:33:58.963","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:34:28.476","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:34:28.477","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:34:28.477","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:34:28.478","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:34:28.478","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:34:32.744","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:35:45.094","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:35:45.095","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:35:45.095","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:35:45.095","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:35:45.095","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:35:48.624","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:38:55.147","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:38:55.149","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:38:55.149","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:38:55.150","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:38:55.150","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:40:38.690","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:40:38.707","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 15:40:44.452","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:40:44.466","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 15:41:58.217","caller":"Middleware/Cors.go:17","msg":"http://coolaf.com"}
+{"level":"INFO","time":"2021/11/29 - 15:49:32.066","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:49:32.067","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:49:32.068","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:49:32.068","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:49:32.068","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:49:38.731","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:49:38.744","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 15:52:05.794","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:52:05.795","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:52:05.795","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:52:05.795","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:52:05.795","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:52:21.309","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 15:52:21.310","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 15:52:21.310","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 15:52:21.311","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 15:52:21.311","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"INFO","time":"2021/11/29 - 15:52:28.062","caller":"Middleware/Cors.go:17","msg":""}
+{"level":"INFO","time":"2021/11/29 - 15:52:28.076","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.114","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.115","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.115","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.116","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.116","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:00:21.116","caller":"gin-kafka/main.go:15","msg":"&{{[0x139c700 0x139d500] / 0xc0002e4340 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x139c700 0x139d500] [0x139c700 0x139d500] [] [] {{} <nil> 0 <nil> 0 0x13987c0} [{GET 0xc000437960} {HEAD 0xc000437ab0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:00:21.126","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.038","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.039","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.040","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.040","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.040","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:06:44.040","caller":"gin-kafka/main.go:15","msg":"&{{[0x129c700 0x129d500] / 0xc00016f380 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x129c700 0x129d500] [0x129c700 0x129d500] [] [] {{} <nil> 0 <nil> 0 0x12987c0} [{GET 0xc0004b9960} {HEAD 0xc0004b9ab0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:06:44.047","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.124","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.126","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.126","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.126","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.126","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:10:28.127","caller":"gin-kafka/main.go:15","msg":"&{{[0x13ac700 0x13ad500] / 0xc00047a340 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x13ac700 0x13ad500] [0x13ac700 0x13ad500] [] [] {{} <nil> 0 <nil> 0 0x13a87c0} [{GET 0xc000725c00} {HEAD 0xc000725d50}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:10:28.135","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.806","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.808","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.808","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.808","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.808","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:11:07.808","caller":"gin-kafka/main.go:15","msg":"&{{[0x79c700 0x79d500] / 0xc000084820 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x79c700 0x79d500] [0x79c700 0x79d500] [] [] {{} <nil> 0 <nil> 0 0x7987c0} [{GET 0xc0001ea310} {HEAD 0xc0001ea620}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:11:07.824","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:11:51.110","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:11:51.112","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:11:51.112","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:11:51.112","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:11:51.112","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:11:51.112","caller":"gin-kafka/main1.go:13","msg":"&{{[0x105b5c0 0x105c3c0] / 0xc0003fe340 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x105b5c0 0x105c3c0] [0x105b5c0 0x105c3c0] [] [] {{} <nil> 0 <nil> 0 0x1057680} [{GET 0xc00016bab0} {HEAD 0xc00016bc00}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main1.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:11:51.121","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:11:57.626","caller":"DBUtils/MySqlUtil.go:41","msg":"database connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:13:10.693","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:13:10.695","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:13:10.695","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:13:10.695","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:13:10.695","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:13:10.695","caller":"gin-kafka/main1.go:13","msg":"&{{[0xa5b5c0 0xa5c3c0] / 0xc00006b1e0 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0xa5b5c0 0xa5c3c0] [0xa5b5c0 0xa5c3c0] [] [] {{} <nil> 0 <nil> 0 0xa57680} [{GET 0xc000609c00} {HEAD 0xc000609d50}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main1.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:13:10.704","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.972","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.973","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.973","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.973","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.974","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:13:19.974","caller":"gin-kafka/main.go:13","msg":"&{{[0xc5c700 0xc5d500] / 0xc000223040 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0xc5c700 0xc5d500] [0xc5c700 0xc5d500] [] [] {{} <nil> 0 <nil> 0 0xc587c0} [{GET 0xc0004b9960} {HEAD 0xc0004b9ab0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:13:19.982","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:15:19.818","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:15:19.819","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:15:19.819","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:15:19.819","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:15:19.819","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:15:19.819","caller":"gin-kafka/main1.go:13","msg":"&{{[0x135b5c0 0x135c3c0] / 0xc00016f380 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x135b5c0 0x135c3c0] [0x135b5c0 0x135c3c0] [] [] {{} <nil> 0 <nil> 0 0x1357680} [{GET 0xc0004b9960} {HEAD 0xc0004b9ab0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main1.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:15:19.828","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.739","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.740","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.741","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.741","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.741","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:15:23.741","caller":"gin-kafka/main.go:13","msg":"&{{[0xcfc700 0xcfd500] / 0xc00037c340 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0xcfc700 0xcfd500] [0xcfc700 0xcfd500] [] [] {{} <nil> 0 <nil> 0 0xcf87c0} [{GET 0xc00012bd50} {HEAD 0xc00012bea0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:15:23.866","caller":"MessageMiddleWare/MessageMiddleWare.go:31","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:15:40.558","caller":"DBUtils/MySqlUtil.go:41","msg":"database connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:48:13.937","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:48:13.939","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:13.939","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:13.940","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:13.940","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:48:13.940","caller":"gin-kafka/main.go:13","msg":"&{{[0xc8c8a0 0xc8d6a0] / 0xc0003fc340 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0xc8c8a0 0xc8d6a0] [0xc8c8a0 0xc8d6a0] [] [] {{} <nil> 0 <nil> 0 0xc88960} [{GET 0xc000703ea0} {HEAD 0xc00013a000}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:48:13.948","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}
+{"level":"ERROR","time":"2021/11/29 - 16:48:15.998","caller":"MessageMiddleWare/EquipmentTopic.go:36","msg":"dial tcp 127.0.0.1:15907: connectex: No connection could be made because the target machine actively refused it.","stacktrace":"gin-server/MessageMiddleWare.(*EquipmentTopic).GetMessage\n\tC:/code/go/gin-kafka/MessageMiddleWare/EquipmentTopic.go:36\ngin-server/MessageMiddleWare.(*KafkaMiddleWare).PushToWebsocket\n\tC:/code/go/gin-kafka/MessageMiddleWare/KafkaMiddleWare.go:15\ngin-server/Controller/V1.(*KafkaController).PublishToWs\n\tC:/code/go/gin-kafka/Controller/V1/KafkaController.go:23\nmain.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:48:45.542","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:48:45.543","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:45.543","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:45.544","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:45.544","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:48:45.544","caller":"gin-kafka/main1.go:13","msg":"&{{[0x57b760 0x57c560] / 0xc00006aea0 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x57b760 0x57c560] [0x57b760 0x57c560] [] [] {{} <nil> 0 <nil> 0 0x577820} [{GET 0xc00016c930} {HEAD 0xc00016cbd0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main1.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:48:45.558","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}
+{"level":"INFO","time":"2021/11/29 - 16:48:54.562","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:48:54.563","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:54.563","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:54.563","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:48:54.563","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:48:54.563","caller":"gin-kafka/main.go:13","msg":"&{{[0xadc8a0 0xadd6a0] / 0xc0002c4820 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0xadc8a0 0xadd6a0] [0xadc8a0 0xadd6a0] [] [] {{} <nil> 0 <nil> 0 0xad8960} [{GET 0xc000476070} {HEAD 0xc0004761c0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:48:54.576","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}
+{"level":"ERROR","time":"2021/11/29 - 16:48:56.622","caller":"MessageMiddleWare/EquipmentTopic.go:36","msg":"dial tcp 127.0.0.1:15907: connectex: No connection could be made because the target machine actively refused it.","stacktrace":"gin-server/MessageMiddleWare.(*EquipmentTopic).GetMessage\n\tC:/code/go/gin-kafka/MessageMiddleWare/EquipmentTopic.go:36\ngin-server/MessageMiddleWare.(*KafkaMiddleWare).PushToWebsocket\n\tC:/code/go/gin-kafka/MessageMiddleWare/KafkaMiddleWare.go:15\ngin-server/Controller/V1.(*KafkaController).PublishToWs\n\tC:/code/go/gin-kafka/Controller/V1/KafkaController.go:23\nmain.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.478","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.480","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.480","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.480","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.480","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:51:45.481","caller":"gin-kafka/main.go:13","msg":"&{{[0x6cc8a0 0x6cd6a0] / 0xc00006b1e0 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x6cc8a0 0x6cd6a0] [0x6cc8a0 0x6cd6a0] [] [] {{} <nil> 0 <nil> 0 0x6c8960} [{GET 0xc000104540} {HEAD 0xc000104690}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:51:45.489","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}
+{"level":"ERROR","time":"2021/11/29 - 16:51:45.498","caller":"MessageMiddleWare/EquipmentTopic.go:36","msg":"websocket: bad handshake","stacktrace":"gin-server/MessageMiddleWare.(*EquipmentTopic).GetMessage\n\tC:/code/go/gin-kafka/MessageMiddleWare/EquipmentTopic.go:36\ngin-server/MessageMiddleWare.(*KafkaMiddleWare).PushToWebsocket\n\tC:/code/go/gin-kafka/MessageMiddleWare/KafkaMiddleWare.go:15\ngin-server/Controller/V1.(*KafkaController).PublishToWs\n\tC:/code/go/gin-kafka/Controller/V1/KafkaController.go:23\nmain.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:51:53.982","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 16:51:53.983","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:53.984","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:53.984","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 16:51:53.984","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 16:51:53.984","caller":"gin-kafka/main.go:13","msg":"&{{[0xa6c8a0 0xa6d6a0] / 0xc000306ea0 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0xa6c8a0 0xa6d6a0] [0xa6c8a0 0xa6d6a0] [] [] {{} <nil> 0 <nil> 0 0xa68960} [{GET 0xc0004c0070} {HEAD 0xc0004c01c0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 16:51:53.993","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}
+{"level":"ERROR","time":"2021/11/29 - 16:51:54.008","caller":"MessageMiddleWare/EquipmentTopic.go:36","msg":"websocket: bad handshake","stacktrace":"gin-server/MessageMiddleWare.(*EquipmentTopic).GetMessage\n\tC:/code/go/gin-kafka/MessageMiddleWare/EquipmentTopic.go:36\ngin-server/MessageMiddleWare.(*KafkaMiddleWare).PushToWebsocket\n\tC:/code/go/gin-kafka/MessageMiddleWare/KafkaMiddleWare.go:15\ngin-server/Controller/V1.(*KafkaController).PublishToWs\n\tC:/code/go/gin-kafka/Controller/V1/KafkaController.go:23\nmain.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.783","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.784","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.784","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.784","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.784","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 17:00:29.784","caller":"gin-kafka/main.go:13","msg":"&{{[0x4ec8a0 0x4ed6a0] / 0xc000145520 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x4ec8a0 0x4ed6a0] [0x4ec8a0 0x4ed6a0] [] [] {{} <nil> 0 <nil> 0 0x4e8960} [{GET 0xc0004c0070} {HEAD 0xc0004c01c0}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 17:00:29.793","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}
+{"level":"ERROR","time":"2021/11/29 - 17:00:29.807","caller":"MessageMiddleWare/EquipmentTopic.go:38","msg":"websocket: bad handshake","stacktrace":"gin-server/MessageMiddleWare.(*EquipmentTopic).GetMessage\n\tC:/code/go/gin-kafka/MessageMiddleWare/EquipmentTopic.go:38\ngin-server/MessageMiddleWare.(*KafkaMiddleWare).PushToWebsocket\n\tC:/code/go/gin-kafka/MessageMiddleWare/KafkaMiddleWare.go:15\ngin-server/Controller/V1.(*KafkaController).PublishToWs\n\tC:/code/go/gin-kafka/Controller/V1/KafkaController.go:23\nmain.main\n\tC:/code/go/gin-kafka/main.go:15\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.197","caller":"ConfigUtils/ConfigUtil.go:24","msg":"[init config params]......"}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.199","caller":"ConfigUtils/DBConfig.go:70","msg":"[Init MySQLConfig Over]...&{db_vls 10.10.21.226 3306 root @BJcenter123 mysql}"}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.199","caller":"ConfigUtils/DBConfig.go:129","msg":"[Init KafkaConfig Over]...&{10.10.21.225 9092}"}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.199","caller":"ConfigUtils/DBConfig.go:169","msg":"[Init Data Tables Over]...&{{t_location_raw t_registration} {    t_work_order  }}"}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.199","caller":"ConfigUtils/ConfigUtil.go:61","msg":"[end init config params]......<nil>"}
+{"level":"ERROR","time":"2021/11/29 - 17:00:45.200","caller":"gin-kafka/main.go:13","msg":"&{{[0x69c8a0 0x69d6a0] / 0xc00047c340 true} true false false true [X-Forwarded-For X-Real-IP] [0.0.0.0/0] false false true 33554432 false {{{ }}} while(1); <nil> map[] [0x69c8a0 0x69d6a0] [0x69c8a0 0x69d6a0] [] [] {{} <nil> 0 <nil> 0 0x698960} [{GET 0xc000152540} {HEAD 0xc000152690}] 1 []}","stacktrace":"main.main\n\tC:/code/go/gin-kafka/main.go:13\nruntime.main\n\tC:/Program Files/Go/src/runtime/proc.go:255"}
+{"level":"INFO","time":"2021/11/29 - 17:00:45.215","caller":"MessageMiddleWare/MessageMiddleWare.go:33","msg":"kafka connect success"}

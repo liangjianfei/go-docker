@@ -1,0 +1,48 @@
+mongo:
+  db: db_vls
+  #  ip: 115.238.30.30
+  ip: 10.0.118.60
+  port: 27017
+  username: vls
+  password: 123456
+
+es:
+  host:
+    - http://10.0.118.60:9200
+  #    - http://115.238.30.30:9200
+  user: elastic
+  password: greensci2020
+
+kafka:
+  ip: 10.10.21.225
+  port: 9092
+
+mysql:
+  db: db_vls
+  ip: 10.10.21.226
+  #  ip: 115.238.30.30
+  port: 3306
+  username: root
+  password: '@BJcenter123'
+  driver: mysql
+
+app:
+  #run-mode:debug/release
+  run-mode: debug
+  pagesize: 10
+  log-path: ../log/debug.log
+  identity-key: idname
+
+server:
+  port: 15907
+  read-timeout: 60
+  write-timeout: 60
+
+tables:
+  mongo:
+    log: t_log
+    location: t_location_raw
+    registration: t_registration
+  mysql:
+    workOrder: t_work_order
+    equipment: t_equipment
